@@ -1,5 +1,5 @@
 {
-  "name": "@yash/responsive-image-resizer",
+  "name": "responsive-image-file-resizer",
   "version": "1.0.0",
   "main": "index.js",
   "repository": {
@@ -17,6 +17,9 @@
     "jpg",
     "react"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "",
   "license": "ISC",
   "description": "",
