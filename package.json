@@ -2,9 +2,21 @@
   "name": "responsive-image-resizer",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": {
+    "url": "https://github.com/YashLonkar55/NPM-PCKG-responsive-image-resizer.git"
+  },
   "scripts": {
     "test": "jest"
   },
+  "keywords": [
+    "image",
+    "resizer",
+    "image-resizer",
+    "responsive",
+    "responsive-image",
+    "jpg",
+    "react"
+  ],
   "author": "",
   "license": "ISC",
   "description": "",
