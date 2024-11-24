@@ -1,5 +1,5 @@
 {
-  "name": "responsive-image-resizer",
+  "name": "@yash/responsive-image-resizer",
   "version": "1.0.0",
   "main": "index.js",
   "repository": {
